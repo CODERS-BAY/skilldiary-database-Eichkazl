@@ -296,3 +296,11 @@ You can create tables by assembling a list of words and dividing them with hyphe
     </td>
   </tr>
 </table>
+
+The first question we answered was, why should we use databases?
+First advantage is the simultaneous access of several users, then the always same structured storage of 
+the data and last but not least the security against loss.
+
+Next topic were the requirements a database should fulfill, known as codd's 9 rules.
+
+But the biggest topic was the graphical representation of the structure of a database, the Entity Relationship Model. This consists of entities and their relations to each other as well as the cardinality of these relations. In addition, there are also associated attributes.
