@@ -297,6 +297,8 @@ You can create tables by assembling a list of words and dividing them with hyphe
   </tr>
 </table>
 
+Diary 11.06
+
 The first question we answered was, why should we use databases?
 First advantage is the simultaneous access of several users, then the always same structured storage of 
 the data and last but not least the security against loss.
